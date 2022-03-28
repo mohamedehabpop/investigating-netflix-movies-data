@@ -1,2 +1,2 @@
 # investigating netflix movies data 
-console war zone game with python 
+manipulating and visualizing movies data on netflix 
